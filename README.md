@@ -1,3 +1,4 @@
+
 # Django Starter
 
 This starter template for Django projects streamlines the setup of Django projects within a GitHub Codespaces environment.
