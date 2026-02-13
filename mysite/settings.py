@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "mysite",
+    "myapp",  # C'est ici que Django va chercher tes modèles de drones
 ]
 
 MIDDLEWARE = [
